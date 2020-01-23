@@ -11,7 +11,7 @@ end
 
 def pioneer
   hash = {
-    name: "Grace Hopper"
+    :name "Grace Hopper"
   }
 end
 
